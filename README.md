@@ -5,7 +5,7 @@ Hora |Track 1|Track 2|
 08:00| Registrer| |
 09:00| KeyNote| |
 09:15| SPFx for beginners | Aplicaciones inteligentes con Servicios cognitivos|  
-11:00| [SPFx for advanced](./readme.md)| Ahorra tiempo con Flow | 
+11:00| [SPFx for advanced](./SPfx-Advanced/readme.md)| Ahorra tiempo con Flow | 
 12:45| xFx Advanced & Graph | PowerApps de principio a fin | 
 14:00| QA|  | 
 14:30| Subways| Subways | 
