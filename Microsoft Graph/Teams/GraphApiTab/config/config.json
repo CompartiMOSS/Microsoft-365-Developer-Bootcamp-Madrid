@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "team-channel-report-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/teamChannelReport/TeamChannelReportWebPart.js",
+          "manifest": "./src/webparts/teamChannelReport/TeamChannelReportWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "TeamChannelReportWebPartStrings": "lib/webparts/teamChannelReport/loc/{locale}.js"
+  }
+}
