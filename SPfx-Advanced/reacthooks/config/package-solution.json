@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "reacthooks-client-side-solution",
+    "id": "0235b6dd-98f2-4a24-b3d5-ca2c284ed287",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/reacthooks.sppkg"
+  }
+}
