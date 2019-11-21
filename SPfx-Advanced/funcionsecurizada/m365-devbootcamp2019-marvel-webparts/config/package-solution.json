@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "m-365-devbootcamp-2019-marvel-webparts-client-side-solution",
+    "id": "647c3342-eda6-4145-a6c0-09a915449ba1",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/m-365-devbootcamp-2019-marvel-webparts.sppkg"
+  }
+}

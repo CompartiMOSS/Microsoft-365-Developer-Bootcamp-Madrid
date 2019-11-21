@@ -1,0 +1,27 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "marvel-heroes-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/marvelHeroes/MarvelHeroesWebPart.js",
+          "manifest": "./src/webparts/marvelHeroes/MarvelHeroesWebPart.manifest.json"
+        }
+      ]
+    },
+    "function-flows-to-graph-tester-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/functionFlowsToGraphTester/FunctionFlowsToGraphTesterWebPart.js",
+          "manifest": "./src/webparts/functionFlowsToGraphTester/FunctionFlowsToGraphTesterWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "MarvelHeroesWebPartStrings": "lib/webparts/marvelHeroes/loc/{locale}.js",
+    "FunctionFlowsToGraphTesterWebPartStrings": "lib/webparts/functionFlowsToGraphTester/loc/{locale}.js"
+  }
+}

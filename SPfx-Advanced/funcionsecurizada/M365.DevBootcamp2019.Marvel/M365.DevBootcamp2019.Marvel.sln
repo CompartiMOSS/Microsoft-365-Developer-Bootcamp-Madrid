@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29505.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M365.DevBootcamp2019.Marvel", "M365.DevBootcamp2019.Marvel\M365.DevBootcamp2019.Marvel.csproj", "{0F22362D-CBD3-45EF-8BA0-FFF9D82C0AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F22362D-CBD3-45EF-8BA0-FFF9D82C0AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F22362D-CBD3-45EF-8BA0-FFF9D82C0AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F22362D-CBD3-45EF-8BA0-FFF9D82C0AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F22362D-CBD3-45EF-8BA0-FFF9D82C0AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82F45C13-CADD-4CA8-A96B-3B7220767A59}
+	EndGlobalSection
+EndGlobal
