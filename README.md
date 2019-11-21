@@ -13,8 +13,11 @@ Hora |Track 1|Track 2|
 ## Instrucciones Wifi
 Connection Instructions:
 • Make sure your wireless adapter is set to dynamically obtain an IP address
+
 • Connect to the wireless network MSFTGUEST
+
 • Open a browser and navigate to a web site to be redirected to the Captive Portal
+
 • Click on Event Attendee Code and enter the access code: msevent256kk
 
 ## Surveys
