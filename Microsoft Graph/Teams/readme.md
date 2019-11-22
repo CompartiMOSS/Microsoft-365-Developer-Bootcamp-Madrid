@@ -185,6 +185,7 @@ export interface ITeamChannelReportState {
   lastMessage: ILastItem;
   numberOfFiles: number;
   lastFileUploaded: ILastItem;
+  isCurrentUserFirstMessageCreator: Boolean;
 }
 ```
 
