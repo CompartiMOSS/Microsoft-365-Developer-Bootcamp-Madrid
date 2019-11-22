@@ -1,0 +1,33 @@
+﻿Question	Answer	Source	Metadata	SuggestedQuestions	IsContextOnly	Prompts	QnaId
+Pulcritud	No eres....	Editorial		[]	true	[{"displayOrder":0,"qnaId":3,"displayText":"Prudente"},{"displayOrder":0,"qnaId":8,"displayText":"Espontáneo"}]	2
+Perseverancia	No eres....	Editorial		[]	true	[{"displayOrder":0,"qnaId":3,"displayText":"Prudente"},{"displayOrder":0,"qnaId":8,"displayText":"Espontáneo"}]	2
+Prudente	En el día de La Purga, ¿Qué harías?	Editorial		[]	true	[{"displayOrder":0,"qnaId":4,"displayText":"Robarías"},{"displayOrder":0,"qnaId":7,"displayText":"Matarías a tus enemigos"},{"displayOrder":0,"qnaId":13,"displayText":"Proteger indefensos"},{"displayOrder":0,"qnaId":19,"displayText":"Luchar contra la injusticia"}]	3
+Robarías	En toda oficina se necesita alguien sin pelos en la lengua, HARLEY QUINN	Editorial		[]	true	[]	4
+Comercial	En toda oficina se necesita alguien sin pelos en la lengua, HARLEY QUINN	Editorial		[]	true	[]	4
+Aprender	BLACK CANARY, de eso se trata, tú sigue poniéndole empeño	Editorial		[]	true	[]	5
+Jefe	BLACK CANARY, de eso se trata, tú sigue poniéndole empeño	Editorial		[]	true	[]	5
+Matarías a tus enemigos	Defensora por excelencia de buenas prácticas, gracias POISON IVY	Editorial		[]	true	[]	7
+Cuñao	Defensora por excelencia de buenas prácticas, gracias POISON IVY	Editorial		[]	true	[]	7
+Espontáneo	¿Qué es lo que más te gusta de tu trabajo?	Editorial		[]	true	[{"displayOrder":0,"qnaId":10,"displayText":"Dinero"},{"displayOrder":0,"qnaId":5,"displayText":"Aprender"},{"displayOrder":0,"qnaId":16,"displayText":"Crear"},{"displayOrder":0,"qnaId":14,"displayText":"La hora de salida"}]	8
+Independiente	¿Qué es lo que más te gusta de tu trabajo?	Editorial		[]	true	[{"displayOrder":0,"qnaId":10,"displayText":"Dinero"},{"displayOrder":0,"qnaId":5,"displayText":"Aprender"},{"displayOrder":0,"qnaId":16,"displayText":"Crear"},{"displayOrder":0,"qnaId":14,"displayText":"La hora de salida"}]	8
+Comenzar	Empecemos, ¿Qué nunca debería faltar en tu equipo?	Editorial		[]	false	[{"displayOrder":0,"qnaId":2,"displayText":"Pulcritud"},{"displayOrder":0,"qnaId":11,"displayText":"Empatía"}]	9
+Empezar	Empecemos, ¿Qué nunca debería faltar en tu equipo?	Editorial		[]	false	[{"displayOrder":0,"qnaId":2,"displayText":"Pulcritud"},{"displayOrder":0,"qnaId":11,"displayText":"Empatía"}]	9
+Hazme el test	Empecemos, ¿Qué nunca debería faltar en tu equipo?	Editorial		[]	false	[{"displayOrder":0,"qnaId":2,"displayText":"Pulcritud"},{"displayOrder":0,"qnaId":11,"displayText":"Empatía"}]	9
+Testéame	Empecemos, ¿Qué nunca debería faltar en tu equipo?	Editorial		[]	false	[{"displayOrder":0,"qnaId":2,"displayText":"Pulcritud"},{"displayOrder":0,"qnaId":11,"displayText":"Empatía"}]	9
+¿Qué superhéroe soy?	Empecemos, ¿Qué nunca debería faltar en tu equipo?	Editorial		[]	false	[{"displayOrder":0,"qnaId":2,"displayText":"Pulcritud"},{"displayOrder":0,"qnaId":11,"displayText":"Empatía"}]	9
+Dime mi superhéroe	Empecemos, ¿Qué nunca debería faltar en tu equipo?	Editorial		[]	false	[{"displayOrder":0,"qnaId":2,"displayText":"Pulcritud"},{"displayOrder":0,"qnaId":11,"displayText":"Empatía"}]	9
+Quiero saber mi héroe interior	Empecemos, ¿Qué nunca debería faltar en tu equipo?	Editorial		[]	false	[{"displayOrder":0,"qnaId":2,"displayText":"Pulcritud"},{"displayOrder":0,"qnaId":11,"displayText":"Empatía"}]	9
+Quién soy en realidad	Empecemos, ¿Qué nunca debería faltar en tu equipo?	Editorial		[]	false	[{"displayOrder":0,"qnaId":2,"displayText":"Pulcritud"},{"displayOrder":0,"qnaId":11,"displayText":"Empatía"}]	9
+Dinero	Tienes la mezcla perfecta CATWOMAN	Editorial		[]	true	[]	10
+Compi	Tienes la mezcla perfecta CATWOMAN	Editorial		[]	true	[]	10
+Empatía	Si tuvieras un superpoder, sería...	Editorial		[]	true	[{"displayOrder":0,"qnaId":12,"displayText":"Invisibilidad"},{"displayOrder":0,"qnaId":17,"displayText":"Teletransporte"}]	11
+Invisibilidad	¿Qué rol desempeñas en tu equipo?	Editorial		[]	true	[{"displayOrder":0,"qnaId":13,"displayText":"Pringao"},{"displayOrder":0,"qnaId":14,"displayText":"Escaqueo"},{"displayOrder":0,"qnaId":16,"displayText":"Apaga fuegos"},{"displayOrder":0,"qnaId":19,"displayText":"Lider"}]	12
+Pringao	Sé fuerte AQUAMAN. Sabemos que la vida no siempre es fácil	Editorial		[]	true	[]	13
+Proteger indefensos	Sé fuerte AQUAMAN. Sabemos que la vida no siempre es fácil	Editorial		[]	true	[]	13
+Escaqueo	DEATHSTROKE. Nadie sabe hacerse el loco tan bien como tú cuando acechan marrones	Editorial		[]	true	[]	14
+La hora de salida	DEATHSTROKE. Nadie sabe hacerse el loco tan bien como tú cuando acechan marrones	Editorial		[]	true	[]	14
+Apaga fuegos	Tu versatilidad salvando pellejos no tiene precio, MARTIAN HUNTER	Editorial		[]	true	[]	16
+Crear	Tu versatilidad salvando pellejos no tiene precio, MARTIAN HUNTER	Editorial		[]	true	[]	16
+Teletransporte	¿Contra quién usarías tu superpoder?	Editorial		[]	true	[{"displayOrder":0,"qnaId":4,"displayText":"Comercial"},{"displayOrder":0,"qnaId":5,"displayText":"Jefe"},{"displayOrder":0,"qnaId":7,"displayText":"Cuñao"},{"displayOrder":0,"qnaId":10,"displayText":"Compi"}]	17
+Luchar contra la injusticia	Por fin alguien prudente que lucha contra la justicia. Gracias SUPERMAN	Editorial		[]	true	[]	19
+Lider	Por fin alguien prudente que lucha contra la justicia. Gracias SUPERMAN	Editorial		[]	true	[]	19
