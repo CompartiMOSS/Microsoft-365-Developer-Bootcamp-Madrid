@@ -4,7 +4,7 @@ Hora |Track 1|Track 2|
 -----|--------------------|--------------------|
 08:00| Registrer| |
 09:00| KeyNote| |
-09:15| SPFx for beginners | Aplicaciones inteligentes con Servicios cognitivos|  
+09:15| [SPFx for beginners](./SPFx-Beginners/README.md) | Aplicaciones inteligentes con Servicios cognitivos|  
 11:00| [SPFx for advanced](./SPfx-Advanced/README.md)| Ahorra tiempo con Flow | 
 12:45| xFx Advanced & Graph | PowerApps de principio a fin | 
 14:00| QA|  | 
@@ -40,5 +40,5 @@ Miguel Tabera|
 Carlos Tabera|
 Felipe Velayos|
 Ivan Gomez Rodriguez|
-Angel Carrillo|
+Ángel Carrillo|
 Adrian Díaz|
